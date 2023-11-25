@@ -7,25 +7,26 @@
 **Tutor**
 - Rodrigo Vidal
 
-## Instrucciones de ejecución
+## Notebooks presentes
 
-Todo el código utilizado se encuentra en Notebooks, por lo que solo basta con correr todas las celdas.
+Todo el código utilizado se encuentra en Notebooks.
 
-**EDA**
+1. **EDA**
 
-Se encuentra en EDA.ipynb
+Se encuentra en proyect_eda.ipynb
 
-**Feature Extraction**
+2. **Feature Extraction**
 
-Se encuentra en Preeliminar_ExtracciónFeatures.ipynb
+Se encuentra en proyect_featureextractor.ipynb
 
-**Preprocesamiento y modelo**
+3.  **Feature Selection con distintos métodos**
 
-Se encuentra en Preeliminar_modelo_clasificacion.ipynb
+Se encuentra en proyect_featureselection.ipynb
 
-**Preprocesamiento y modelo iteración**
+4. **Evaluación de BRF con distintas features seleccionadas**
 
-Se encuentra en Preeliminar_modelo_clasificacion_iteracion
-.ipynb
+Se encuentra en proyect_brf_diff_features.ipynb
 
+5. **Tunning de modelos**
 
+Se encuentra en proyect_tunning.ipynb
